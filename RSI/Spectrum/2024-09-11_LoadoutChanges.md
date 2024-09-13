@@ -64,7 +64,7 @@
         <td class="s8">2</td>
       </tr>
       <tr style="height: 20px">
-        <td class="s10">2</td>
+        <td class="s10">1</td>
         <td class="s11">1</td>
       </tr>
       <tr style="height: 20px">
