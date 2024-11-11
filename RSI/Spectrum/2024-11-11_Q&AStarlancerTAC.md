@@ -48,7 +48,7 @@
 - **¿Es el contenedor izquierdo un alimentador de municiones? Si es así, ¿podría recargarse desde el interior de la nave? (Imagen abajo)**
 *Estos son puramente narrativos visuales. En el futuro, en naves más grandes, podrás rearmar balísticas desde dentro de la nave a través del equivalente a mini ascensores de carga.*
 
-[IMAGEN]
+![misc-starlancer-tac-kf04](https://github.com/user-attachments/assets/35d15fa0-81eb-473e-8735-e843166e71cc)
 
 - **¿Viene realmente con una Fury o solo con un hangar del tamaño de una Fury para cazas pequeños? Además, ¿pueden caber otros cazas pequeños en este hangar? ¿Cuáles son las dimensiones del hangar para cazas pequeños?**
 *El hangar está diseñado específicamente para acomodar una Fury en lugar de un tamaño fijo, similar al hangar de la Anvil Carrack diseñado para la C8X Pisces. La Starlancer TAC estándar no viene de serie con ninguna variante del Fury.*
