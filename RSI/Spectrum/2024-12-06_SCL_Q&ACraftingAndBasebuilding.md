@@ -1,119 +1,120 @@
 # Star Citizen Live: Crafting and Basebuilding Q&A - 12/6/24
 
-## Crafting
+## Elaboración
 
-- **How does crafting change existing gathering methods like mining and salvage?**
-> The short version is the mining we have now will change more drastically again and salvage will be getting some changes too. On the mining side we are adding quality to minables; with the system we have now with multiple resources per rock that doesn't make as much sense because you might be looking for quality and not -just- the resources, so we're going to be more bespoke minables like 'the copper rock, the iron rock,' etc. with more of an emphasis on looking for the quality of material instead of combination of materials. We also want to utilize the new planet tech so that these minables are distributed more meaningfully across biomes and landmarks like rivers.
+- **¿Cómo cambia la elaboración los métodos actuales de recolección como minería y salvamento?**
+> En resumen, la minería que tenemos ahora cambiará de forma más drástica, y el salvamento también recibirá algunos cambios. En la minería, estamos añadiendo calidad a los minerales extraíbles; con el sistema actual, donde hay múltiples recursos por roca, no tiene mucho sentido porque podrías estar buscando calidad y no solo recursos. Así que vamos a introducir minerales específicos como 'la roca de cobre, la roca de hierro', etc., con más énfasis en buscar la calidad del material en lugar de la combinación de materiales. También queremos aprovechar la nueva tecnología planetaria para que estos minerales se distribuyan de manera más significativa a través de biomas y puntos de referencia como ríos.
 
-> We will also be more concrete on the minables you find based on the profession you picked; if you're a ship miner you'll find ship minables, if you're an FPS miner you'll find FPS minables, if you're a ground vehicle minable, etc.; these minerals won't be shared across mining types, you'll need to pursue different minerals through different styles of mining; ship, FPS, ground vehicle or base extractors.
+> También seremos más específicos sobre los minerales que encuentres según la profesión que elijas; si eres un minero de nave, encontrarás minerales de nave, si eres un minero FPS, encontrarás minerales FPS, si usas un vehículo terrestre, etc.; estos minerales no se compartirán entre los tipos de minería. Necesitarás buscar diferentes minerales dependiendo del estilo de minería: nave, FPS, vehículo terrestre o extractores en bases.
 
-> Salvage will also get a revisit; what we're going to do there is construction materials will be constituted of actual normal metals/materials; there will be processes to separate them out, but it's something we're still working on the exact details of. Basically, it will tie into the 'dismantling' side of crafting; when you disassemble something you get back some of the specific materials that went into it, and this is basically how salvage will work with your ship being a mobile dismantler.
+> El salvamento también será revisado; lo que haremos es que los materiales de construcción estarán constituidos por metales/materiales normales. Habrá procesos para separarlos, pero todavía estamos trabajando en los detalles exactos. Básicamente, se vinculará con el lado de 'desmantelamiento' de la elaboración; cuando desarmes algo, recuperarás algunos de los materiales específicos que lo componían, y básicamente así funcionará el salvamento, con tu nave actuando como un desmantelador móvil.
 
-- **So basically if I'm looking to craft ships and I need material for the hull, I can do hull scraping and get some of the materials I need for that?**
-> There will be some materials you won't get back, though, some materials are volatile or exclusive in some way, so if you just turn around and salvage a ship you just made you won't get those volatiles back.
+- **¿Entonces básicamente si quiero construir naves y necesito materiales para el casco, puedo raspar cascos para obtener algunos de los materiales que necesito?**
+> Habrá algunos materiales que no podrás recuperar, ya que algunos son volátiles o exclusivos de alguna manera. Así que si desmontas una nave recién construida, no recuperarás esos materiales volátiles.
 
-- **Will there be limited-use blueprints?**
-> Yes, we'll be supporting both finite-use blueprints and blueprints that have a cooldown between uses just to give us extra ways of balancing.
+- **¿Habrá planos de uso limitado?**
+> Sí, admitiremos tanto planos de uso finito como planos con un tiempo de reutilización entre usos, lo que nos permitirá tener formas adicionales de balancear el sistema.
 
-- **Can you trade blueprints?**
-> Yes and no; we mentioned at citcon that blueprints can be credited directly to your character. So if you get a directly attributed blueprint like from a mission or rep reward, it's bound to your character and you can't trade it, but there will be lootable datapad blueprints in some other areas, and you can trade those datapads before you download the blueprint, but it's a one-time use.
+- **¿Se pueden intercambiar los planos?**
+> Sí y no; mencionamos en CitCon que los planos pueden ser acreditados directamente a tu personaje. Si obtienes un plano directamente atribuido, como de una misión o recompensa de reputación, estará ligado a tu personaje y no se podrá intercambiar, pero habrá planos en datapads saqueables en algunas áreas, y podrás comerciar esos datapads antes de descargar el plano, pero será de uso único.
 
-- **Can we use stolen materials to craft?**
-> Absolutely; the crafter doesn't care about the legality. You can probably steal an item, dismantle it and use the materials-- that's actually the recommended loop if you steal something; items have ownership flags and you either go through a process of removing that flag, or you simply dismantle it into materials and use those.
+- **¿Se pueden usar materiales robados para fabricar?**
+> Absolutamente; al artesano no le importa la legalidad. Probablemente podrás robar un objeto, desmantelarlo y usar los materiales. De hecho, ese es el bucle recomendado si robas algo; los objetos tienen banderas de propiedad, y puedes eliminarlas o simplemente desmantelarlos para usar los materiales.
 
-- **If you pledge for a ship will you receive a blueprint to craft it?**
-> No. If you buy a car from the dealer it doesn't give you the right to make that car; if you buy a ship it gives you the ship. Once you've got a ship, however you got it, you will be able to upgrade it. You can't directly craft a high tier ship but you can upgrade the one you pledged for with in game materials, research, etc.
-   
-## Crafting - Upgrades
+- **Si adquiero una nave mediante pledge, ¿recibiré un plano para fabricarla?**
+> No. Si compras un coche en un concesionario, eso no te da derecho a fabricarlo. Si compras una nave, obtienes la nave. Una vez que tengas una nave, sin importar cómo la consigas, podrás mejorarla. No puedes fabricar directamente una nave de alto nivel, pero puedes mejorar la que adquiriste con materiales del juego, investigaciones, etc.
 
--  **How does the upgrade system work, what are tier 1-5, are they the same or different for every ship or customizable?**
-> The current plan is that there's different kinds of blueprint. Most will be upgradeable through research and different kinds will get different benefits through research; a refining blueprint will get more efficient, a repair blueprint will repair more effectively. The creation blueprint is tiered, where a higher tier blueprint lets you create a higher tier item. If you have the tier 1 blueprint for a gun it will have stats for things like fire rate, recoil, etc.; you'll be able to see the range for those stat types, and the exact value of those stats you get when you craft it will be dependent on the quality of the resources you used.
+## Elaboración - Mejoras
 
-> When you upgrade the blueprint to tier two, those stat ranges will be shifted; a higher top end and low end, with the end result being dependent on the material quality, but better overall than the tier 1. Blueprints also have 'aspects,' so materials put into the grip of a gun might impact the felt recoil but not the fire rate. With the highest tier of creation blueprints, you'll get a choice of what materials go into what aspects of the item so you might be able to more precisely tune for specific stats depending on what resources you add.
+- **¿Cómo funciona el sistema de mejoras? ¿Qué significan los niveles 1-5? ¿Son iguales o diferentes para cada nave o personalizables?**
+> El plan actual es que hay diferentes tipos de planos. La mayoría se podrán mejorar mediante investigación y recibirán beneficios distintos según el tipo. Un plano de refinación será más eficiente; uno de reparación reparará de forma más efectiva. El plano de creación está escalonado: un plano de nivel superior te permitirá crear un objeto de nivel superior. Por ejemplo, si tienes un plano de nivel 1 para un arma, este tendrá estadísticas como cadencia de fuego, retroceso, etc. El rango de esas estadísticas dependerá de la calidad de los recursos utilizados.
 
-> The only other kind of blueprint is the upgrade blueprint itself; if you use an upgrade blueprint to increase the tier of an existing item, the item's original materials don't matter anymore, only the grade of materials you put into the upgrade process will impact the stats. This is to make sure that a Tier 3 item ends up in the same ranges regardless of whether you upgraded it from T1, T2 to T3 or crafted it directly as a tier 3 item.
+> Cuando mejoras el plano al nivel 2, esos rangos de estadísticas se ampliarán, con valores finales dependientes de la calidad del material, pero mejores en general que los del nivel 1. Los planos también tienen 'aspectos', de modo que los materiales que uses en el empuñadura de un arma podrían afectar el retroceso percibido, pero no la cadencia de disparo. Con los planos de creación de nivel más alto, tendrás la opción de elegir qué materiales se destinan a qué aspectos, permitiéndote ajustar estadísticas específicas según los recursos que añadas.
 
--  **And these processes don't apply just to gun but to ships too?**
-> Right, and also things like ship components.
-- **If you take an Aurora and you've upgraded it to Tier 5, and done the same thing with the weapons and the components, you can have an Aurora that is dramatically different than David's Aurora or Pete's Aurora?**
-> Yes. One of the big challenges is going to be balancing all the variations you have access to; instead of one ship having certain values, there's going to be a whole range of values that can apply even to any one type of ship.
+> El otro tipo de plano es el de mejora en sí; si utilizas un plano de mejora para aumentar el nivel de un objeto existente, los materiales originales del objeto no importan, solo la calidad de los materiales que usas en el proceso de mejora afectará las estadísticas. Esto asegura que un objeto de nivel 3 tenga el mismo rango, independientemente de si fue mejorado desde el nivel 1 o directamente creado como nivel 3.
 
-## Land Claims
+- **¿Y estos procesos no solo aplican a armas, sino también a naves?**
+> Correcto, y también a componentes de naves.
 
-- **What's our current plan for land claims?**
-> For basic land acquisition, you have general plots, prospecting plots that are smaller/cheaper. You can modify the bounds of these claims, make them bigger and adjust the dimensions which will affect the price. Where the beacon (from old Pioneer pledges) comes in you skip the initial UEC cost for claiming, but there'll still be a recurring UEC tax. If you fail to pay that tax over a period of time you'll begin to lose rights to your base, eventually you'll lose complete ownership of the base and the land, they can be looted or someone else can buy it up. It's important that we avoid the concept of a 'dead' base where people are gone for a year and just keep it forever.
+- **Si tomas una Aurora, la mejoras a nivel 5 y haces lo mismo con las armas y los componentes, ¿podrías tener una Aurora dramáticamente diferente a la de otro jugador?**
+> Sí. Uno de los grandes desafíos será equilibrar todas las variaciones que tendrás a tu disposición. En lugar de que una nave tenga ciertos valores fijos, habrá todo un rango de valores que podrían aplicarse incluso a un mismo tipo de nave.
 
-> In addition to that there will be limitations with basically 'national park' areas in lawful and lawless areas; this allows us to reserve areas that's pristine for exploration, resource gathering, etc. When you have a plot of land there will be an exclusion zone around it where no one else can buy or build so you can't get boxed in; that's the current high level summary of the plan.
+## Reclamos de tierra
 
-## Base Building - General Mechanics
+- **¿Cuál es nuestro plan actual para los reclamos de tierra?**
+> Para la adquisición básica de tierras, habrá parcelas generales y parcelas de prospección más pequeñas y económicas. Podrás modificar los límites de estos reclamos, hacerlos más grandes y ajustar las dimensiones, lo cual afectará el precio. En cuanto al beacon (de los antiguos pledges del Pioneer), te permitirá omitir el costo inicial en UEC para reclamar la tierra, pero aún así habrá un impuesto recurrente en UEC. Si no pagas ese impuesto durante un tiempo determinado, comenzarás a perder derechos sobre tu base; eventualmente perderás completamente la propiedad de la base y la tierra, lo que permitirá que sean saqueadas o compradas por otros. Es importante evitar el concepto de una base 'muerta' donde el propietario esté ausente durante años pero mantenga la propiedad indefinidamente.
 
-- **What can player bases be used for? How will basebuilding integrate with features like mining and trading?**
-> Base building will enable us to change the universe and how players interact with one another (or avoid interacting). Even if you don't want to interact with it directly, you'll still be involved with the gameplay loops. For example, maybe you're just a small miner who just wants to make a living out of shipping your resources; for you it might be good to have a base nearby the mining resources to be more efficient. We're trying to keep the possibilities as open as possible; maybe you have storehouses tucked away where you hide stuff, maybe it's something big for your org or a base dedicated to the most efficient refining.
+> Además, habrá limitaciones como áreas de 'parque nacional' en zonas legales e ilegales. Esto nos permitirá reservar áreas prístinas para exploración, recolección de recursos, etc. Cuando poseas una parcela de tierra, habrá una zona de exclusión alrededor que impedirá que otros compren o construyan cerca, para evitar que te rodeen completamente; esta es la idea general actual del plan.
 
-> A base can be used for whatever you want to use it for and will be able to link into any kind of gameplay you're doing, almost every gameplay feature will have representations in the basebuilding feature, and even if you don't have your own base you'll still be visiting other player bases for interactions and economic reasons.
+## Construcción de bases - Mecánicas generales
 
-- **What's our current plan for how planetary shields work in high vs low security systems?**
-> If a planet has planetary shielding you aren't vulnerable to attack, your stuff can't be stolen; there's two layers, there's air shields which prevent bombardments and shields that hug the buildings themselves and can also block attacks from the ground; in lawless systems like Pyro this is dependent on the 'credit' system and the battle over access to shields week to week but it always applies in lawful systems.
+- **¿Para qué se pueden usar las bases de jugadores? ¿Cómo se integrará la construcción de bases con características como minería y comercio?**
+> La construcción de bases nos permitirá cambiar el universo y cómo los jugadores interactúan entre sí (o evitan interactuar). Incluso si no deseas interactuar directamente, aún estarás involucrado en los bucles de juego. Por ejemplo, tal vez eres un pequeño minero que solo quiere ganarse la vida enviando tus recursos; para ti, podría ser útil tener una base cerca de los recursos de minería para ser más eficiente. Intentamos mantener las posibilidades lo más abiertas posible; tal vez tengas almacenes escondidos donde guardas cosas, o algo grande para tu organización, o una base dedicada a la refinación más eficiente.
 
-- **You mentioned the idea of multiple or mobile bases; you may have a 'home' base but for industrial purposes there's more of a gameplay style of creating smaller more mobile bases that move around as needed?**
-> You can still have your static home base but once your resources there run dry you can disassemble your extractors and go find resources elsewhere; if you want to stay for your home, stay, but you'll need to follow finite resources as well.
+> Una base puede usarse para lo que desees y estará conectada con cualquier tipo de jugabilidad que estés realizando. Casi todas las características del juego tendrán representación en la construcción de bases, y aunque no tengas tu propia base, seguirás visitando otras bases de jugadores por razones de interacción y economía.
 
-- **That leads into: can we deconstruct buildings and how does it work?**
-> Yes; through the same AR mode with drones as you use for construction. If you disassemble a base, the drones will put the resources into your freight elevator network. You'll get some of the resources back from disassembling, but not 1:1 with what you put in to begin with.
+- **¿Cuál es nuestro plan actual para cómo funcionarán los escudos planetarios en sistemas de alta vs. baja seguridad?**
+> Si un planeta tiene escudos planetarios, no eres vulnerable a ataques y tus cosas no pueden ser robadas. Hay dos capas: escudos aéreos que previenen bombardeos y escudos que cubren los edificios y también bloquean ataques terrestres. En sistemas sin ley como Pyro, esto depende del sistema de 'crédito' y de la batalla semanal por el acceso a escudos, pero siempre aplica en sistemas legales.
 
-- **How customizable will bases be in terms of material, color, shape?**
-> We really want to make sure they can make the base their own, so that you can tint or put logos on the sides that can personalize it or keep it more low key depending on your goals like hiding a discreet gathering base or advertising a trading post. Something we showed in basebuilding as well is that a majority of buildings will connect with one another; there's generic buildings that can be used for different purposes and tinted and then connected via corridors or otherwise to other generic or more specialized structures.
+- **¿Mencionaron la idea de bases múltiples o móviles? ¿Se puede tener una base 'hogar' y, para propósitos industriales, construir bases más pequeñas y móviles?**
+> Puedes tener tu base estática, pero una vez que se agoten los recursos en esa área, podrás desarmar tus extractores y buscar recursos en otro lugar. Si deseas quedarte en tu base hogar, puedes hacerlo, pero tendrás que seguir los recursos finitos.
 
-- **Will there be different architecture styles?**
-> For now we're very focused on the high tech visual very well, we have a specific set in mind we want to release with, after that there's more functionality we want to look at, and then we'll be asking if we want to expand the high tech set or do we want to build a new set? But we'll be making that decision after seeing how players react to the initial set.
+- **Esto lleva a la pregunta: ¿podremos desmontar edificios y cómo funcionará?**
+> Sí; a través del mismo modo AR con drones que usas para la construcción. Si desmantelas una base, los drones colocarán los recursos en tu red de elevadores de carga. Recuperarás algunos recursos al desmantelar, pero no será una proporción 1:1 respecto a lo que invertiste inicialmente.
 
-- **How will we be able to decorate in a way that there isn't physics jank all over the place?**
-> Decorator AR will let you maglock your furniture into place so that only you or people with the right permissions are allowed to move that object. The initial release will be mainly about building your bases, then we'll move more into the pvp side of things.
-   
-- **Can you work together to create a base or charge a fee for using a base's services?**
-> Yes; we're trying to make it very open. You'll be able to build small or maybe larger bases alone and then you can also team up and build bases quicker or bigger by working in groups. You can also build infrastructure and have people pay to use it; letting people to pay to utilize your high end crafting or refining equipment, etc. You can be primarily a miner, for example, but then go to a player's base that's specialized towards refining and utilize their infrastructure for that.
+- **¿Qué tan personalizables serán las bases en términos de materiales, colores y formas?**
+> Queremos asegurarnos de que las bases puedan reflejar el estilo de cada jugador. Podrás tintar los edificios o colocar logotipos en sus lados para personalizarlos, o mantenerlos discretos dependiendo de tus objetivos, como ocultar una base de recolección o publicitar un puesto de comercio. También mostramos en la construcción de bases que la mayoría de los edificios estarán conectados entre sí; habrá edificios genéricos que se podrán usar para diferentes propósitos, tintados, y luego conectados mediante corredores u otras estructuras especializadas.
 
-- **Can you spawn in your base or group bedlog?**
-> Yes, but you'll need the proper building for that; if you have a proper medbed/hospital in your base you can use it like other spawn locations w/ imprints.
+- **¿Habrá diferentes estilos arquitectónicos?**
+> Por ahora, estamos muy centrados en el estilo visual de alta tecnología. Tenemos un conjunto específico en mente para el lanzamiento inicial. Después de eso, queremos explorar más funcionalidades y evaluar si expandimos el conjunto de alta tecnología o creamos uno nuevo, pero tomaremos esa decisión según la reacción de los jugadores al conjunto inicial.
 
-- **Bases in caves?**
-> Not on our roadmap
+- **¿Cómo podremos decorar las bases sin que haya problemas de física en los objetos?**
+> El modo Decorator AR permitirá fijar muebles en su lugar mediante maglocks, de manera que solo tú o las personas con los permisos adecuados puedan mover esos objetos. En el lanzamiento inicial nos centraremos principalmente en construir las bases, y luego exploraremos más el lado PvP.
 
-- **How well will bases blend into the surrounding environment?**
-> Tinting will let you blend your buildings better to the environments; you can build near trees (although building on top of trees will remove them). There will also be buildings that can reduce the signature of your base to hide it from scans. 
+- **¿Podremos trabajar juntos para construir una base o cobrar por el uso de los servicios de una base?**
+> Sí; intentamos que sea muy abierto. Podrás construir bases pequeñas o incluso grandes por tu cuenta, pero también podrás unirte a otros para construir más rápido o bases más grandes trabajando en equipo. También puedes construir infraestructura y cobrar a otros por usarla, como permitirles utilizar equipos de fabricación o refinación avanzados. Por ejemplo, podrías ser principalmente un minero, pero ir a una base de otro jugador especializada en refinación para usar su infraestructura.
 
-- **How will player trading at bases work?**
-> The seller can place items into the freight elevator and connect them to a terminal or a physical shop and there'll be a mobiglas app where you can advertise what goods you have for sale. As a buyer you can browse listings on this app, or if you need something really specific you can put in a buy order to have people make the exact things you need and deliver them to where they're needed.
-   
-## Base Building - Resource Extraction
+- **¿Podremos aparecer en nuestra base o usar la función de 'bedlog' en grupo?**
+> Sí, pero necesitarás el edificio adecuado para ello. Si tienes una cama médica/hospital en tu base, podrás usarla como otros puntos de reaparición con imprint.
 
-- **Will mining extractors and other processors automatically eject boxes, allowing anyone to tractor them away?**
-> There's lots of different crafting machines that do their processes differently but most will have an internal buffer until you're ready to pick them up, but you can also have them directly put stuff in boxes. Either way, they're subject to the same permissions as anything else in your base wrt defenses, etc. so that they can't just be stolen by anyone who walks in. There will also be options to send things directly to your local freight elevator/warehouse at the base.
+- **¿Se podrán construir bases en cuevas?**
+> No está en nuestra hoja de ruta.
 
-- **Will underground mining deposits respawn over time and how's the rarity of minerals accounted for in the economy?**
-> Short answer is yes, they will respawn, but it's very unlikely they'll respawn in the exact spot you already have. What we want to see is people moving around to new locations to grab new resources. As to the latter, it's a big concern; we have to work very closely with the economy team to make sure that there's both a healthy in-game economy driven by us and also a player driven economy that are functional.
+- **¿Qué tan bien se integrarán las bases con el entorno circundante?**
+> El tintado permitirá que los edificios se integren mejor con el entorno. Podrás construir cerca de árboles (aunque construir sobre ellos los eliminará). También habrá edificios que puedan reducir la firma de tu base para ocultarla de los escáneres.
 
-## Base Building - Space Stations
+- **¿Cómo funcionará el comercio entre jugadores en las bases?**
+> El vendedor podrá colocar objetos en el elevador de carga y conectarlos a un terminal o a una tienda física. Habrá una aplicación en el mobiGlas donde podrás anunciar los bienes que tienes a la venta. Como comprador, podrás buscar listados en esta aplicación o, si necesitas algo muy específico, crear una orden de compra para que otros fabriquen lo que necesitas y lo entreguen donde sea requerido.
 
-- **Where can space stations be build and will there be smaller ones for small groups?**
-> There currently aren't plans for smaller scale space stations. There will be some limitations on where you can build a space station but you're not limited to orbit around a planet, you can build it out in the depths of space and have it hidden. Space stations won't be physically smaller but it isn't set in stone yet how big of a group would be needed to tackle that project.
+## Construcción de bases - Extracción de recursos
 
-## Base Building - Restrictions/Networking & Shard Issues
+- **¿Los extractores de minería y otros procesadores expulsarán automáticamente cajas, permitiendo que cualquiera las retire con tractor?**
+> Hay muchas máquinas de fabricación diferentes que realizan sus procesos de manera distinta, pero la mayoría tendrán un buffer interno hasta que estés listo para recogerlas. También podrán colocar los materiales directamente en cajas. En cualquier caso, estarán sujetas a los mismos permisos que cualquier otra cosa en tu base en cuanto a defensas, etc., para evitar que sean robadas por cualquiera que pase. También habrá opciones para enviar materiales directamente a tu elevador de carga/almacén local en la base.
 
-- **How does all this work with shards?**
-> The plan is that every base/plot of land/extraction point will be visible across all shards within a region. If I set up a base and set up shop people from other shards in that region will be able to visit and interact with it, but raiding can only occur on one shard. This is a bit tricky and will involve a bit of a ruleset; the easiest part is 'is the owner online,' and if so, the raid can only occur on that shard where the owner is present; if I'm on the wrong shard and I attempt a raid I'll receive a prompt that I need to change shards to do that. Obviously as shards grow and we have fewer of them we'll see that issue less, but you'll never be in a scenario where you can't defend your base because someone attacks it on a different shard.
+- **¿Los depósitos de minería subterránea se regenerarán con el tiempo y cómo se refleja la rareza de los minerales en la economía?**
+> En resumen, sí, se regenerarán, pero es muy improbable que reaparezcan exactamente en el mismo lugar. Queremos que los jugadores se desplacen a nuevas ubicaciones para extraer nuevos recursos. En cuanto a la rareza, es una gran preocupación; debemos trabajar muy de cerca con el equipo de economía para asegurarnos de que haya tanto una economía saludable controlada por nosotros como una economía impulsada por los jugadores que sean funcionales.
 
-- **So if you're offline or in a different shard your base is just a visual replica?**
-> Well yes, but people can still use and interact with it, shops will still be functioning and that kind of thing, it's just when it comes to attacking it has to occur on a single shard.
+## Construcción de bases - Estaciones espaciales
 
-- **What will this look like in terms of offline raiding and base defenses? If I don't log in is my stuff always safe, is there a decay timer, etc.**
-> If you are in a lawless area and you haven't secured the shield tech from the prior week's station warfare then you're open to be raided whether you're online or offline; you can create defenses to deter that including shielding so they have to do a ground assault. You can also haul your valuables to a safer area if you're going to be gone for a while.
+- **¿Dónde se podrán construir estaciones espaciales y habrá versiones más pequeñas para grupos pequeños?**
+> Actualmente no hay planes para estaciones espaciales a menor escala. Habrá algunas limitaciones sobre dónde se pueden construir, pero no estarás limitado a órbitas planetarias; podrás construirlas en las profundidades del espacio para mantenerlas ocultas. Aunque las estaciones espaciales no serán físicamente más pequeñas, aún no está definido cuán grande debe ser el grupo para abordar ese proyecto.
 
-- **Can you start a construction project with drones from our Starlancer and leave?**
-> Once you set the building in motion you can leave, log off, etc. and the drone will do its job; if the build finishes the drone will try to return to its mothership, if it can't then the drone will self-destruct and you'll need another drone, but you can get one just by repairing the Starlancer. 
+## Construcción de bases - Restricciones, red y problemas con shards
 
--  **What happens if people park their Idris or otherwise obstruct an area where you have your drones trying to build something?**
-> That's not going to be possible; the construction hologram is physicalized and will be blocked off so someone can't land a ship there.
+- **¿Cómo funcionará todo esto con los shards?**
+> El plan es que cada base, parcela de tierra y punto de extracción sea visible en todos los shards dentro de una región. Si configuro una base y abro un comercio, las personas de otros shards en esa región podrán visitarla e interactuar con ella, pero los asaltos solo podrán ocurrir en un shard. Esto será un poco complicado y requerirá un conjunto de reglas; la más sencilla es si el propietario está en línea, el asalto solo puede ocurrir en el shard donde está presente. Si intento asaltar en el shard equivocado, recibiré un aviso de que necesito cambiar de shard para hacerlo. A medida que los shards crezcan y sean menos, este problema será menos frecuente, pero nunca estarás en una situación donde no puedas defender tu base porque alguien la ataque en un shard diferente.
 
-- **Is terrain manipulation all automated?**
-> We don't want players to completely change the terrain to their liking, but there will be buildings that can do light terrain manipulation to make sure staircases work, but generally you'll use the foundation tiles to flatten area and then build on top of foundations when terrain is difficult.
+- **Entonces, si estás desconectado o en un shard diferente, ¿tu base será solo una réplica visual?**
+> Bueno, sí, pero la gente aún podrá usarla e interactuar con ella; las tiendas seguirán funcionando, etc. Solo que, en cuanto a ataques, estos deben ocurrir en un único shard.
+
+- **¿Cómo funcionará esto en términos de asaltos offline y defensas de la base? Si no inicio sesión, ¿mis cosas siempre estarán seguras? ¿Habrá un temporizador de deterioro, etc.?**
+> Si estás en una zona sin ley y no has asegurado la tecnología de escudo de la guerra de estaciones de la semana anterior, estarás abierto a asaltos, estés en línea o no. Podrás crear defensas para disuadirlos, como escudos que obliguen a realizar un asalto terrestre. También puedes trasladar tus objetos de valor a una zona más segura si planeas estar fuera por un tiempo.
+
+- **¿Puedes iniciar un proyecto de construcción con drones desde nuestro Starlancer y marcharte?**
+> Una vez que pongas en marcha la construcción, puedes irte, cerrar sesión, etc., y el dron hará su trabajo. Si la construcción se completa, el dron intentará regresar a su nave nodriza. Si no puede, el dron se autodestruirá y necesitarás otro dron, pero puedes conseguir uno simplemente reparando el Starlancer.
+
+- **¿Qué ocurre si alguien estaciona su Idris u obstruye un área donde tienes drones intentando construir algo?**
+> Eso no será posible; el holograma de construcción está fisicalizado y estará bloqueado para que nadie pueda aterrizar una nave allí.
+
+- **¿La manipulación del terreno es completamente automática?**
+> No queremos que los jugadores puedan cambiar completamente el terreno a su gusto, pero habrá edificios que podrán realizar una ligera manipulación del terreno para asegurarse de que las escaleras funcionen. Generalmente, usarás baldosas de cimientos para nivelar áreas y luego construir sobre esos cimientos cuando el terreno sea complicado.
