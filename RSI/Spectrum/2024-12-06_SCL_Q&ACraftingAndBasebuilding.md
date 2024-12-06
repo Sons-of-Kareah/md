@@ -1,4 +1,4 @@
-# Star Citizen Live: Crafting and Basebuilding Q&A - 12/6/24
+# Star Citizen Live: Q&A Crafting y construccion de bases - 12/6/24
 
 ## Elaboración
 
